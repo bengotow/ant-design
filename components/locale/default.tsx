@@ -27,9 +27,9 @@ const localeValues: Locale = {
     sortTitle: 'Sort',
     expand: 'Expand row',
     collapse: 'Collapse row',
-    triggerDesc: 'Click sort by descend',
-    triggerAsc: 'Click sort by ascend',
-    cancelSort: 'Click to cancel sort',
+    triggerDesc: 'Sort descending',
+    triggerAsc: 'Sort ascending',
+    cancelSort: 'Remove sorting',
   },
   Modal: {
     okText: 'OK',
